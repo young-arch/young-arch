@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.vircep.com%2Fassets%2Fimages%2Ftec%2Fjava-banner.png&tbnid=IdyfnOpeow32EM&vet=12ahUKEwjCx8m3vLuEAxXOUKQEHRcnD00QMygnegUIARC7AQ..i&imgrefurl=https%3A%2F%2Fwww.vircep.com%2Fjava-development.php&docid=vIEVZKBdTE9E9M&w=1600&h=429&q=java%20banner%20&ved=2ahUKEwjCx8m3vLuEAxXOUKQEHRcnD00QMygnegUIARC7AQ)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IA-YAYMImjodJLEbZlNkVT7jvEbi0ZNW5A&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Mawule</h1>
 <h3 align="center">A passionate Backend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1358%2F1*lhOax3cZATGZwEhG0uTYRA.gif&tbnid=Wq0tsOxx6l1wMM&vet=12ahUKEwim0uyuu7uEAxX4XaQEHbiDA7gQMygKegQIARBs..i&imgrefurl=https%3A%2F%2Fmedium.com%2Ftest-automation-hub%2Fhow-to-switch-between-multiple-jdks-java-on-windows-abb884d9c22c&docid=9b3_UVmoAmRQIM&w=800&h=366&q=animated%20java%20gif&ved=2ahUKEwim0uyuu7uEAxX4XaQEHbiDA7gQMygKegQIARBs"
+<img align="right" alt="Coding" width="400" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif"
 
 <p align="left"> <a href="https://twitter.com/mawulegabriel" target="blank"><img src="https://img.shields.io/twitter/follow/mawulegabriel?logo=twitter&style=for-the-badge" alt="mawulegabriel" /></a> </p>
 
